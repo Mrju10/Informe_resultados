@@ -1,0 +1,57 @@
+Pagos y Servicio
+================
+
+Durante el periodo en que se prestó el servicio de expendio, venta y preparación de alimentos, el establecimiento demostró un nivel ejemplar de eficiencia y seguridad en todas sus operaciones. Desde la preparación inicial de los alimentos hasta su venta final, cada paso del proceso fue realizado cumpliendo rigurosamente con las normas y procedimientos de higiene y limpieza establecidos por el reglamento interno. Este compromiso inquebrantable con la calidad no solo garantizó un servicio seguro y confiable, sino que también reforzó la confianza de los usuarios en la capacidad del establecimiento para ofrecer alimentos que cumplen con los más altos estándares.
+
+
+.. figure:: /_static/Recuperación_de_dinero.png
+   :align: center
+   :width: 600px
+   
+   Recuperación de Dinero
+
+Una de las características más notables del proyecto fue su capacidad para recuperar la inversión inicial en un plazo de tan solo seis meses. Con una recuperación monetaria del 100% en este breve periodo, quedó demostrado que el proyecto no solo fue altamente eficiente en términos operativos, sino que también alcanzó un éxito rotundo en términos de rentabilidad. Este logro es particularmente significativo al considerar que todos los gastos asociados, tanto operativos como de mantenimiento, fueron absorbidos completamente por el establecimiento. Esto abarcó desde la adquisición de suministros hasta el mantenimiento rutinario de los equipos, subrayando el compromiso del establecimiento con el éxito del proyecto sin imponer costos adicionales a los usuarios.
+
+Además de estos logros financieros, el proyecto también destacó por su capacidad para ofrecer alimentos a precios más bajos en comparación con alternativas menos saludables, como la comida chatarra. Esta reducción de precios no solo hizo que los alimentos fueran más accesibles para los usuarios, sino que también promovió una alimentación más saludable, alineándose con los objetivos de bienestar de la comunidad. Este equilibrio entre accesibilidad y calidad fue posible gracias a una gestión meticulosa y estratégica de los recursos, que permitió ofrecer productos de alta calidad a precios competitivos sin comprometer la rentabilidad del servicio.
+
+**Descripción del Gráfico**  
+-----------------------
+
+El gráfico titulado **Recuperación de Dinero** proporciona una representación visual detallada de la evolución de los ingresos generados por el servicio a lo largo de un año.
+
+**Ejes**  
+----
+
+**Eje X (Horizontal):**
+  - Este eje representa las semanas del año, etiquetado como "Semana". Cada semana actúa como un marcador temporal, permitiendo un seguimiento detallado de las fluctuaciones en los ingresos a lo largo del tiempo.
+
+**Eje Y (Vertical):**
+  - Este eje representa los ingresos en unidades monetarias, etiquetado como "Ingreso". Los valores en este eje ofrecen una medida clara del rendimiento financiero del servicio semana a semana.
+
+**Características del Gráfico**  
+---------------------------
+
+El gráfico se caracteriza por una línea azul que muestra la variabilidad de los ingresos semanales a lo largo del año. Esta línea azul es crucial para comprender la dinámica financiera del servicio, reflejando cómo los ingresos respondieron a diversos factores, como la demanda estacional, promociones especiales o eventos inesperados.
+
+* **Variabilidad:** Los ingresos presentan una alta variabilidad de una semana a otra, con picos y caídas marcadas. Los picos significativos se observan en las semanas 10, 23 y 32, lo que podría estar relacionado con eventos o promociones especiales que impulsaron temporalmente la demanda. Por otro lado, las caídas notables en las semanas 9, 19 y 35 sugieren periodos de menor actividad, posiblemente influenciados por factores externos como vacaciones o fluctuaciones en la demanda.
+
+* **Línea de Tendencia:** Superpuesta a la línea azul, se encuentra una línea roja que representa la tendencia general de los ingresos a lo largo del periodo. Esta línea es esencial para visualizar la dirección a largo plazo del rendimiento financiero. A pesar de la alta variabilidad semana a semana, la línea roja muestra una ligera inclinación al alza, lo que indica un crecimiento sostenido en los ingresos a lo largo del año. Esta tendencia ascendente sugiere que, a pesar de las fluctuaciones, el servicio logró generar un crecimiento continuo y estable.
+
+**Anotaciones Específicas**  
+-----------------------
+
+El gráfico también incluye anotaciones en puntos clave de la línea azul, resaltando valores específicos de ingresos en semanas críticas. Estos valores permiten una evaluación más precisa del rendimiento durante momentos clave del año. Por ejemplo, los valores más altos anotados son 0.7506333695 y 0.8787549765, correspondientes a las semanas 10 y 23, respectivamente. Estos picos pueden indicar promociones exitosas o aumentos estacionales en la demanda. Por otro lado, los valores más bajos anotados, que incluyen varios ceros, podrían reflejar semanas sin ingresos, posiblemente debido a cierres temporales o a la falta de reportes.
+
+**Recaudación de Dinero**  
+----------------------
+
+**Tendencia**  
+~~~~~~~~~
+
+La línea roja del gráfico ofrece una visión clara de la tendencia general de los ingresos a lo largo del periodo analizado. Esta inclinación al alza es un indicador positivo de la sostenibilidad y la eficiencia del servicio, mostrando que, a pesar de las variaciones semana a semana, el proyecto mantuvo un crecimiento constante. Esta tendencia ascendente es particularmente relevante dado que todos los gastos operativos fueron absorbidos por el establecimiento, lo que resalta la eficacia de la gestión financiera y operativa del proyecto.
+
+**Posibilidad de Éxito**  
+^^^^^^^^^^^^^^^^^^^^
+
+El gráfico proporciona una visión detallada de cómo se recuperaron los ingresos a lo largo del año. La combinación de alta variabilidad con una tendencia ascendente sugiere que, aunque el servicio enfrentó desafíos, fue capaz de adaptarse y prosperar en un entorno dinámico. La capacidad del establecimiento para absorber todos los costos, sin comprometer la calidad del servicio ni la accesibilidad de los precios, fue un factor clave en el éxito del proyecto. Esta estrategia permitió no solo una recuperación completa de la inversión inicial, sino también la creación de un modelo de operación sostenible y rentable.
+

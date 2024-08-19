@@ -1,0 +1,291 @@
+.. _propuesta_inicio:
+
+======================================================
+Propuesta de Expendio, Preparación y Venta de Alimentos
+======================================================
+
+Propuesta para el Expendio, Preparación y Venta de Alimentos en la Escuela Secundaria Oficial No. 215 “Filomeno Mata” 2022-2023
+
+Estado de México, a 16 de junio del 2023
+
+Asunto: Propuesta de expendio, preparación y venta de alimentos.
+
+Dirigido a: Comité del Establecimiento de Consumo Escolar, Turno Matutino, CCT 15EES0327V
+
+Resumen
+-------
+
+Este documento abarcó los aspectos esenciales de una propuesta destinada a la preparación y venta de alimentos para estudiantes de secundaria. Además, se detallaron las regulaciones necesarias para mejorar el control de la higiene y se propusieron características clave para establecer nuevos estándares en la venta de alimentos naturales y bebidas, con el objetivo de reducir el consumo de productos de confitería.
+
+Introducción
+------------
+
+En el contexto de la convocatoria emitida el 13 de octubre de 2023, se presentó la propuesta para el expendio de alimentos y bebidas preparados, así como productos procesados, en concordancia con las pautas destinadas a regular los Establecimientos de Consumo Escolar en los Planteles de Educación Básica del Sistema Educativo Estatal.
+
+En un esfuerzo por mejorar la experiencia educativa y brindar un espacio acogedor y nutricionalmente equilibrado para los estudiantes de nivel secundaria, se presentó la propuesta para establecer la venta de alimentos y bebidas dentro de la unidad académica. Esta propuesta no solo proporcionó opciones alimenticias saludables, sino que también fomentó un ambiente social positivo y facilitó la adquisición de hábitos alimenticios saludables desde temprana edad.
+
+Objetivo
+--------
+
+  Implementar nuevos mecanismos con el propósito de mejorar y preservar la calidad nutricional de los alimentos, promoviendo un mayor consumo de productos saludables.
+
+Objetivos Específicos
+---------------------
+
+- **Promoción de la Salud:** Ofrecer opciones de alimentos y bebidas balanceadas nutricionalmente, contribuyendo al bienestar general de los estudiantes.
+- **Ambiente Social y Relacional:** Crear un espacio acogedor donde los estudiantes pudieron socializar y establecer relaciones positivas fuera del aula, promoviendo un sentido de comunidad en la escuela.
+
+Medidas Sanitarias
+==================
+
+Con el fin de garantizar la comercialización de alimentos de calidad, con higiene y valor nutritivo, y ofrecer productos y servicios a precios competitivos, se propusieron las siguientes características.
+
+Control de Higiene
+------------------
+
+El ámbito de la alimentación destinada a la educación básica estuvo en un punto de transformación, lo que permitió la implementación de las directrices de higiene requeridas según la "NOM-251-SSA1-2009, Prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios".
+
+La NOM-251-SSA1-2009 estableció los lineamientos y prácticas de higiene necesarios para el procesamiento de alimentos, con el fin de garantizar la seguridad alimentaria y proteger la salud de los consumidores. Esta normativa exigió que los establecimientos de alimentos cumplieran con estándares rigurosos en cuanto a la manipulación, almacenamiento, preparación y distribución de productos alimenticios.
+
+Adecuación del Espacio
+----------------------
+
+Dadas las características del espacio, fue necesaria una adecuación del establecimiento de 36 metros cuadrados para la venta, asegurando que los espacios de cocina, preparación, venta y almacenamiento estuvieran debidamente definidos y equipados para operar de manera eficiente y cumplir con las normativas de higiene y seguridad alimentaria.
+
+Propuesta para la Distribución del Local
+----------------------------------------
+
+.. list-table:: Distribución del Local
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - **Área**
+     - **Espacio (m²)**
+     - **Elementos**
+   * - Cocina
+     - 8
+     - Estufa, Mesa de preparación
+   * - Bebidas
+     - 10
+     - Área de licuadoras, Mesa de preparación, Alacena
+   * - Ventas
+     - 6
+     - Mesa de despacho, Área de ventas
+   * - Almacén
+     - 9
+     - Estantes, Alacena, Stock
+
+Preparación de Alimentos
+------------------------
+
+Se buscó la excelencia en la preparación y distribución de alimentos en el entorno escolar, cumpliendo con las normativas establecidas por la NOM-251-SSA1-2009. Se propuso:
+
+- Mantener la cocina en condiciones adecuadas de limpieza.
+- Almacenar los alimentos de manera adecuada, siguiendo las regulaciones de salud pública.
+- Implementar un sistema eficiente para la gestión de residuos.
+- Controlar plagas mediante medidas preventivas y tratamientos seguros.
+- Asegurar altos estándares de higiene del personal.
+
+Venta de Alimentos Preparados
+-----------------------------
+
+Se propuso proporcionar opciones de alta calidad y saludables para satisfacer las necesidades de la comunidad escolar, incluyendo un menú variado, especialidades saludables, y opciones para diferentes dietas. Las bebidas ofrecidas se centraron en la hidratación y la salud, promoviendo el consumo de agua y licuados naturales.
+
+Cumplimiento Normativo
+----------------------
+
+Se aseguró el cumplimiento estricto de las regulaciones sobre el contenido de azúcar y otros ingredientes, según las normativas aplicables, y se garantizó que las bebidas cumplieran con las directrices de calidad y seguridad alimentaria.
+
+Lista de Precios
+----------------
+
+La lista de precios para los productos ofrecidos se detalla a continuación:
+
+.. list-table:: Lista de Precios
+   :widths: 10 20 40 20
+   :header-rows: 1
+
+   * - **Id. Inventario**
+     - **Nombre**
+     - **Descripción**
+     - **Precio Unitario ($)**
+   * - IN0001
+     - Jugo
+     - Bebidas
+     - 10.00
+   * - IN0002
+     - Mentas
+     - Dulcería
+     - 1.00
+   * - IN0003
+     - Cachetada
+     - Dulcería
+     - 3.00
+   * - IN0004
+     - Bubbalo
+     - Dulcería
+     - 2.00
+   * - IN0005
+     - Mamut
+     - Dulcería
+     - 3.00
+   * - IN0006
+     - Skwinkles Clásico
+     - Dulcería
+     - 10.00
+   * - IN0007
+     - Clores
+     - Dulcería
+     - 2.00
+   * - IN0008
+     - Chicle 4 Pastillas
+     - Dulcería
+     - 2.00
+   * - IN0009
+     - Dragon
+     - Dulcería
+     - 5.00
+   * - IN0010
+     - Combo
+     - Dulcería
+     - 10.00
+   * - IN0011
+     - Pelón grande
+     - Dulcería
+     - 10.00
+   * - IN0012
+     - Pelón chico
+     - Dulcería
+     - 4.00
+   * - IN0013
+     - **Choco crispis**
+     - **Cereales**
+     - 15.00
+   * - IN0014
+     - **Zucaritas**
+     - **Cereales**
+     - 15.00
+   * - IN0015
+     - Lucas
+     - Dulcería
+     - 10.00
+   * - IN0016
+     - Duvalín
+     - Dulcería
+     - 3.00
+   * - IN0017
+     - Skwinkles Espagueti
+     - Dulcería
+     - 15.00
+   * - IN0018
+     - Papa sol Original
+     - Frituras
+     - 18.00
+   * - IN0019
+     - Abanero
+     - Frituras
+     - 25.00
+   * - IN0020
+     - Tortuga
+     - Dulcería
+     - 5.00
+   * - IN0021
+     - Sandibrochas
+     - Dulcería
+     - 3.00
+   * - IN0022
+     - Paleta hueso
+     - Dulcería
+     - 2.00
+   * - IN0023
+     - Halls
+     - Dulcería
+     - 10.00
+   * - IN0024
+     - Prendidas
+     - Dulcería
+     - 3.00
+   * - IN0025
+     - Gomy king
+     - Dulcería
+     - 3.00
+   * - IN0026
+     - Vampibrochas
+     - Dulcería
+     - 3.00
+   * - IN0027
+     - Ollitas
+     - Dulcería
+     - 2.00
+   * - IN0028
+     - Mangomis
+     - Dulcería
+     - 1.00
+   * - IN0029
+     - Galletas Emperador
+     - Dulcería
+     - 10.00
+   * - IN0030
+     - Tomy
+     - Dulcería
+     - 1.00
+   * - IN0031
+     - **Agua 1.5lt**
+     - **Bebidas**
+     - 12.00
+   * - IN0032
+     - **Agua 1lt**
+     - **Bebidas**
+     - 8.00
+   * - IN0033
+     - **Agua 500 ml**
+     - **Bebidas**
+     - 5.00
+   * - IN0034
+     - Gomas enchiladas
+     - Dulcería
+     - 5.00
+   * - IN0035
+     - **Tortas**
+     - **Almuerzo**
+     - 15.00
+   * - IN0036
+     - **Sandwiches**
+     - **Almuerzo**
+     - 15.00
+   * - IN0037
+     - Cartón para Café
+     - Insumos
+     - 0.00
+   * - IN0038
+     - Tapa para café
+     - Insumos
+     - 0.00
+   * - IN0039
+     - Polvorón
+     - Dulcería
+     - 8.00
+   * - IN0040
+     - Ranita
+     - Dulcería
+     - 6.00
+   * - IN0041
+     - Mantecadas
+     - Dulcería
+     - 12.00
+   * - IN0042
+     - Trikitrakes
+     - Dulcería
+     - 10.00
+   * - IN0043
+     - **Tacos**
+     - **Almuerzo**
+     - 18.00
+   * - IN0044
+     - **Agua Natural**
+     - **Bebidas**
+     - 15.00
+
+
+
+La implementación de estas medidas y propuestas buscó mejorar la higiene y calidad de los alimentos disponibles en los establecimientos escolares, fomentar una mayor conciencia sobre la importancia de una alimentación adecuada entre los estudiantes, y promover hábitos alimenticios saludables.

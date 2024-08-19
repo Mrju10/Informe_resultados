@@ -1,0 +1,325 @@
+
+Adecuación del Espacio
+========================
+
+Durante el periodo comprendido entre 2023 y 2024, se llevó a cabo un proceso de adecuación de un espacio de 36 metros cuadrados destinado a la venta de alimentos en Ciudad Lago, Nezahualcóyotl, Estado de México. El objetivo principal de esta intervención fue asegurar que las áreas de cocina, preparación, venta y almacenamiento estuvieran correctamente delimitadas y equipadas, permitiendo así una operación eficiente y el cumplimiento con las normativas de higiene y seguridad alimentaria vigentes.
+
+.. figure:: /_static/propuestadedesarrollo.png
+    :alt: Imagen de la adecuación del espacio
+    :width: 400px
+    :align: center
+
+    Adecuación del espacio
+
+Condiciones de Entrega del Espacio 
+---------------------------------------
+
+El espacio se recibió en su estado bruto, sin divisiones ni equipamiento alguno, lo que requirió la realización de diversas adecuaciones para alinearlo con los estándares sanitarios y garantizar un entorno seguro y funcional para la preparación y venta de alimentos. Este proceso incluyó la instalación de divisiones internas, la adquisición de mobiliario adecuado y la implementación de mejoras en infraestructura básica, tales como instalaciones eléctricas y sanitarias.
+
+Mobiliario Recibido
+------------------------
+
+A continuación, se detalla el mobiliario que fue recibido para la adecuación del espacio:
+
+.. list-table::
+   :header-rows: 1
+
+   * - **Cantidad**
+     - **Mobiliario**
+     - **Código**
+   * - 3
+     - Mesas de 40x120 cm
+     - 2060077831
+   * - 2
+     - Mesas de 120x75 cm en color blanco
+     - B000614845
+   * - 20
+     - Platos de plástico
+     - [Código no disponible]
+   * - 20
+     - Vasos de plástico
+     - [Código no disponible]
+
+Mobiliario en Mal Estado o No Recibido 
+-------------------------------------------
+
+Durante la revisión del mobiliario, se identificaron algunos elementos en mal estado o que no fueron entregados según lo previsto. A continuación, se presenta un listado de estos artículos:
+
+.. list-table::
+   :header-rows: 1
+
+   * - **Cantidad**
+     - **Mobiliario**
+     - **Código**
+     - **Estado**
+   * - 1
+     - Refrigerador (compañía Boing)
+     - [Código no disponible]
+     - **NO RECIBIDO**
+   * - 1
+     - Tarja de lavado
+     - [Código no disponible]
+     - **EN MAL ESTADO**
+   * - 4
+     - Mesas de 40x120 cm en color café
+     - [Código no disponible]
+     - **EN MAL ESTADO**
+
+
+Evidencia Fotográfica 
+------------------------
+
+A continuación, se presentan imágenes que muestran las condiciones de entrega del espacio y el mobiliario recibido:
+
+.. figure:: /_static/image_page_1_xref_24.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_1_xref_25.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_1_xref_26.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_1_xref_27.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_1_xref_28.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_2_xref_31.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_2_xref_32.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_2_xref_33.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_2_xref_34.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_3_xref_37.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_3_xref_38.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_3_xref_39.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_3_xref_40.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_4_xref_43.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_4_xref_44.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_4_xref_45.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+.. figure:: /_static/image_page_4_xref_46.jpeg
+    :alt: Imagen de las condiciones de entrega del espacio
+    :width: 300px
+    :align: center
+
+    Condiciones de entrega del espacio
+
+
+
+Exigencia del turno vespertino y su falta de iniciativa para ocupar un espacio en el establecimiento
+====================================================================================================
+
+Dado la exigencia del turno vespertino y su falta de iniciativa para ocupar un espacio en el establecimiento, se propuso una división de ingresos entre ambos turnos, basada en el número de alumnos y el precio por alumno.
+
+Propuesta de División de Ingresos
+---------------------------------
+En la siguiente imagen se muestra una propuesta de división de ingresos entre los turnos matutino y vespertino, basada en el número de alumnos y el precio por alumno.
+
+
+.. figure:: /_static/page_6_xref_59.png
+   :align: center
+   :alt: Propuesta de División de Ingresos
+   :width: 400px
+
+   *Instalación de Wi-Fi en la institución educativa*
+
+
+**Cálculo de Ingresos por Turno**
+
+El análisis de ingresos por turno proporciona una visión detallada de la contribución financiera de cada turno a lo largo de un año. A continuación, se presentan los resultados clave de este análisis:
+
+.. figure:: /_static/page_2_xref_17.png
+   :align: center
+   :alt: Representación Anual de Ingresos
+   :width: 600px
+
+   Representación Anual de Ingresos
+
+
+
+**1. Comparación de Ingresos Diarios:**
+
+El Turno Matutino genera un ingreso diario de $594.00, que es significativamente mayor que el ingreso diario del Turno Vespertino, que es de $162.50. Esta diferencia se debe principalmente al mayor número de alumnos inscritos en el Turno Matutino (198) en comparación con el Turno Vespertino (65), además de un precio por alumno ligeramente más alto en el Turno Matutino ($3.00 frente a $2.50).
+
+**2. Comparación de Ingresos Semanales:**
+
+A lo largo de una semana, el Turno Matutino genera un ingreso de $2,970.00, mientras que el Turno Vespertino genera $812.50. Esta diferencia refleja la disparidad en la capacidad de los dos turnos para generar ingresos en un período de tiempo corto, siendo el Turno Matutino casi cuatro veces más rentable semanalmente que el Turno Vespertino.
+
+**3. Comparación de Ingresos Mensuales:**
+
+Extendiendo el análisis a un mes, el Turno Matutino mantiene su ventaja significativa con un ingreso mensual de $11,880.00, comparado con los $3,250.00 generados por el Turno Vespertino. Este patrón sugiere que, a nivel mensual, el Turno Matutino es más eficiente en términos de generación de ingresos debido a la combinación de un mayor número de estudiantes y un precio más alto.
+
+**4. Comparación de Ingresos Anuales:**
+
+A lo largo del año, la disparidad entre los ingresos generados por los dos turnos se vuelve aún más evidente. El Turno Matutino produce $142,560.00, mientras que el Turno Vespertino genera $39,000.00. En términos absolutos, el Turno Matutino contribuye a la mayor parte de los ingresos anuales combinados, que suman un total de $181,560.00. Esta diferencia significativa resalta la importancia del Turno Matutino en la estructura de ingresos de la institución.
+
+Implicaciones Financieras
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Asignación de Recursos:**
+Dado que el Turno Matutino es el principal generador de ingresos, podría considerarse la posibilidad de destinar más recursos a este turno para maximizar su potencial. Esto podría incluir mejoras en las instalaciones, más personal o programas adicionales que atraigan a más estudiantes.
+
+**Gestión Operativa:**
+La gestión operativa también debería considerar la eficiencia en el Turno Vespertino. Si bien los ingresos son menores, podría ser útil explorar estrategias para aumentar la inscripción de estudiantes en este turno, quizás ajustando el precio por alumno o implementando programas que hagan este turno más atractivo.
+
+**Proyección a Futuro:**
+A largo plazo, es importante considerar cómo los ingresos proyectados pueden influir en las decisiones estratégicas. Si la tendencia actual se mantiene, el Turno Matutino continuará siendo la columna vertebral financiera, lo que podría justificar una expansión o promoción más agresiva de este turno.
+
+
+
+En conclusión, el análisis descriptivo de los ingresos por turno escolar en el periodo 2023-2024 muestra una clara ventaja del Turno Matutino en términos de generación de ingresos, tanto a corto como a largo plazo. La información detallada en la tabla y el análisis posterior proporcionan una base sólida para la toma de decisiones estratégicas que pueden optimizar los recursos y mejorar la rentabilidad general de la institución.
+
+
+
+Orientación y Mantenimiento de la Infraestructura Tecnológica
+=============================================================
+
+Durante el periodo 2023-2024, se llevaron a cabo significativas mejoras en el área de orientación educativa con el objetivo de proporcionar un mayor apoyo a las maestras y optimizar las condiciones de trabajo. Entre las iniciativas implementadas, se incluyó la instalación de una red Wi-Fi dedicada, lo que facilitó el acceso a recursos educativos en línea y mejoró la comunicación entre el personal docente y administrativo. Además, se evaluó la posibilidad de extender la cobertura de la red a la sala de maestros, con el fin de ofrecer una conectividad más amplia que beneficiara a todo el equipo en sus actividades cotidianas.
+
+Es importante destacar que todos los gastos asociados a estas mejoras fueron absorbidos íntegramente por el establecimiento. Esto incluye no solo la instalación de la infraestructura tecnológica, sino también la inversión en asegurar que las áreas de expendio, venta y preparación de alimentos operaran bajo condiciones óptimas y cumplieran con las normativas de seguridad y eficiencia requeridas.
+
+
+.. figure:: /_static/page_13_xref_189.jpeg
+   :align: center
+   :alt: Instalación de red Wi-Fi
+   :width: 600px
+
+   *Instalación de red Wi-Fi en la institución educativa*
+
+
+**Servicio de Copias e Impresión**  
+-----------------------------------
+
+El servicio de copias e impresión es un componente esencial para las operaciones administrativas y educativas de la institución. Para garantizar su funcionamiento sin interrupciones, se implementó un plan de mantenimiento trimestral que contempla los siguientes costos:
+
+* **Tóner:** $1000 por trimestre, necesario para mantener la operatividad de las impresoras y fotocopiadoras.
+* **Limpieza:** $600 anuales, destinados a mantener los equipos en condiciones óptimas de funcionamiento.
+* **Tambor:** $3000, una inversión crucial para asegurar la calidad y continuidad del servicio de impresión.
+
+.. figure:: /_static/page_14_xref_195.jpeg
+   :align: center
+   :width: 300px
+   :alt: Servicio de copias e impresión
+   
+   *Servicio de copias e impresión en la institución educativa*
+
+Es fundamental señalar que todos estos gastos, cruciales para el funcionamiento diario, fueron asumidos en su totalidad por el establecimiento, demostrando un fuerte compromiso con la calidad del servicio ofrecido en las áreas de expendio, venta y preparación de alimentos.
+
+**Equipo de Cómputo**  
+---------------------
+
+El mantenimiento regular de los equipos de cómputo es una prioridad para garantizar su rendimiento. El programa de mantenimiento trimestral incluye:
+
+* **Limpieza:** Con un costo de $150 por trimestre, esta práctica previene fallos y asegura el correcto funcionamiento de los sistemas.
+
+.. figure:: /_static/page_15_xref_198.jpeg
+   :align: center
+   :width: 300px
+   :alt: Mantenimiento de equipos de cómputo
+
+   *Mantenimiento de equipos de cómputo en la institución educativa*
+
+
+Nuevamente, estos costos fueron completamente absorbidos por el establecimiento, asegurando que las operaciones tecnológicas en las áreas críticas como el expendio, venta y preparación de alimentos se mantengan fiables y eficientes, sin comprometer la calidad del servicio.
+
+**Posibilidad de Instalación de Wi-Fi**  
+----------------------------------------
+
+La posibilidad de extender la red Wi-Fi a la sala de maestros fue considerada para mejorar la conectividad en toda la institución. Esta expansión tiene como objetivo no solo beneficiar a los docentes en su acceso a recursos y planificación, sino también fortalecer la conectividad en las áreas de expendio, venta y preparación de alimentos, que son esenciales para el funcionamiento diario.
+
+Es importante subrayar que esta iniciativa, al igual que las anteriores, fue financiada completamente por el establecimiento, demostrando un claro compromiso con la mejora continua y la inversión en infraestructura crítica para el bienestar y eficiencia de sus operaciones.
+
+
+Reflexiones Finales
+--------------------
+
+Las mejoras implementadas, que incluyen tanto la actualización de la infraestructura tecnológica como el mantenimiento regular de equipos, están diseñadas para mantener un entorno operativo moderno y eficiente. Al absorber íntegramente todos los costos asociados, el establecimiento ha demostrado un fuerte compromiso con la excelencia, asegurando que las áreas clave, especialmente aquellas relacionadas con el expendio, venta y preparación de alimentos, funcionen bajo las mejores condiciones posibles y sin comprometer la calidad del servicio ofrecido a toda la comunidad educativa.
+
+
